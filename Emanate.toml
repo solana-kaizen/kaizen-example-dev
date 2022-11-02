@@ -1,0 +1,31 @@
+[project]
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-macro-tools"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-websocket"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-rpc"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-core"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-log"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-wasm"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-panic-hook"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-async-trait"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-allocator"
+
+[[repository]]
+url = "https://github.com/workflow-rs/workflow-allocator-example"
